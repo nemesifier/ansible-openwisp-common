@@ -1,0 +1,19 @@
+common_ipv4_forward : 0
+packages:
+  - sudo
+  - aptitude
+  - git
+  - htop
+  - nyancat
+  - screen
+  - software-properties-common
+  - python-software-properties
+  - unattended-upgrades
+  - vim
+  - wget
+  - whois
+  - iputils-ping
+  - host
+  - traceroute
+  - tree
+  - ntp
